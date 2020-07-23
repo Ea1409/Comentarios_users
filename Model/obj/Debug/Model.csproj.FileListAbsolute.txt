@@ -1,0 +1,7 @@
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Model\bin\Debug\Model.dll.config
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Model\bin\Debug\Model.dll
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Model\bin\Debug\Model.pdb
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Model\obj\Debug\Model.dll
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Model\obj\Debug\Model.pdb

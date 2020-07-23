@@ -1,0 +1,10 @@
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Controller\bin\Debug\Controller.dll
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Controller\bin\Debug\Controller.pdb
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Controller\bin\Debug\Model.dll
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Controller\bin\Debug\Model.pdb
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Controller\bin\Debug\Model.dll.config
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Controller\obj\Debug\Controller.csproj.CopyComplete
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Controller\obj\Debug\Controller.dll
+D:\Trabajos esteban\Entrevista\usuarios_comentarios\Controller\obj\Debug\Controller.pdb
